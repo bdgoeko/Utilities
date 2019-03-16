@@ -11,5 +11,7 @@ Various Utilities I have written to make my life easier.
  movie files
  gif files
  jpeg files
-
   Used to retive good files from a drive that was crypt attacked.
+* find_copies.sh         - Script to find other copies of files
+    This script has a search path hard coded in it... will someday fix that...
+
