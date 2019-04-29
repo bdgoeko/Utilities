@@ -1,10 +1,10 @@
 #!/bin/bash
 
+#interactive_rename.sh by Brian Dolan-Goecke is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+# See http://creativecommons.org/licenses/by-nc/4.0/
+
 # Name: rename.sh
 # Description: A script to aid in renameing files
-#
-# Copyright Brian Dolan-Goecke 2012
-# Contact Brian Dolan-Goecke @ http://www.goecke-dolan.com/Brian/sendmeail.php
 
 #VERSION="0.1.1-bdg-2012" # New revision control
 VERSION="0.0.1-goeko-20150503215341"

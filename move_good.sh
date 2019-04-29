@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#move_good.sh by Brian Dolan-Goecke is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+# See http://creativecommons.org/licenses/by-nc/4.0/
+
 # Script to move files that are good.
 
 GOOD_COUNT=0

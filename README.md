@@ -1,5 +1,8 @@
 # Utilities
 
+#These works by Brian Dolan-Goecke are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+# See http://creativecommons.org/licenses/by-nc/4.0/
+
 Various Utilities I have written to make my life easier.
 
 * interactive_rename.sh  - CLI interactive rename utility

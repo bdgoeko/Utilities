@@ -1,7 +1,12 @@
 #!/bin/bash
 
-# script to see if a file exists in a path.
+#find_copies.sh by Brian Dolan-Goecke is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+# See http://creativecommons.org/licenses/by-nc/4.0/
 
+# script to see if a file exists in a path.
+VERSION="CHEESEBALL_REVISION_INFO_HERE"
+
+DATIM=`date +%Y%m%d%H%M`
 
 #PICTURES_PATH=${HOME}/Pictures:${HOME}/pictures
 PICTURES_PATH=${HOME}/Pictures:${HOME}/pictures
@@ -11,7 +16,6 @@ ${HOME}/Pictures"
 LOOK_DIRS="/srv/network/Personal/"
 
 EXIT_STATUS=0 # Hope things will end well
-
 SCRIPT_NAME=`basename $0`
 
 function usage {

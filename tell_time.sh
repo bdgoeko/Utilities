@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#tell_time.sh by Brian Dolan-Goecke is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License
+# See http://creativecommons.org/licenses/by-nc/4.0/
+
 LOGFILE=/tmp/tell_time.log
 LOGGEDN=false
 THEUSER=""
